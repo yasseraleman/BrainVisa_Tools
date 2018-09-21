@@ -1,0 +1,11 @@
+F.C.L.r.asc.:S.Or.,F.C.L.r.ant.,F.C.L.r.asc.,F.C.L.r.diag.,S.Pe.C.inf.,S.Pe.C.inter.,S.Pe.C.sup.,S.Pe.C.marginal.,S.Pe.C.median.,S.F.orbitare.,S.F.marginal.,S.F.inf.ant.,S.F.inf.,S.F.inter.,S.F.sup.,S.C.sylvian.,S.Olf.,S.R.inf.,S.F.int.,S.F.polaire.tr.,F.C.M.ant.,S.F.median.,F.C.L.r.sc.ant.,S.C.
+F.C.L.r.diag.:F.C.L.r.retroC.tr,F.I.Po.C.inf.,S.Po.C.sup.,S.Pa.sup.,S.GSM.,F.I.P.r.int.1,S.T.s.ter.asc.ant.,F.I.P.r.int.2,F.I.P.,S.T.s.ter.asc.post.,S.p.C.,S.C.LPC.,F.C.M.post.,S.s.P.,S.Pa.int.,S.Pa.t.,F.C.L.r.sc.post.
+S.Pe.C.inf.:F.C.L.a.,F.C.L.p.,S.T.pol.,S.T.s.,S.T.i.ant.,S.O.T.lat.med,S.O.T.lat.post,S.T.i.post,S.O.T.lat.ant.,S.Rh.,F.Coll.
+S.Pe.C.inter.:OCCIPITAL,S.Cu.,S.O.p.,F.Cal.ant.-Sc.Cal.,S.Li.post,S.Li.ant.,S.O.T.lat.int.,F.P.O.
+Corpus Callosum:S.Call
+Insula:INSULA
+Ventricle:ventricle
+
+
+
+

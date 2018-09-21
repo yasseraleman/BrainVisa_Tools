@@ -1,0 +1,4 @@
+Frontal:F.C.L.r.asc.
+Parietal:F.C.L.r.diag.
+Temporal:S.Pe.C.inf.
+Occipital:S.Pe.C.inter.
